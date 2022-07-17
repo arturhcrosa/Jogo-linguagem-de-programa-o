@@ -1,11 +1,10 @@
 # Jogo da cobrinha
 
-  # Artur Henrique do Carmo Rosa 
-  # Evenly Oliveira Silva Moreira
+  Artur Henrique do Carmo Rosa e Evenly Oliveira Silva Moreira
 	
 # Qual o propósito do jogo?
 
-	Esse jogo foi desenvolvido durante o período que estávamos cursando a disciplina de linguagem de programação. O propósito do jogo, em primeiro lugar, é a diversão, e também, relembrar um jogo que fez parte da nossa infância, o Snake Game. Já em relação ao objetivo do jogo, é controlar a cobra para que coma os ratinhos, e assim, aumentar sua velocidade e a pontuação do jogador. Além disso, a cobra deve evitar bater em si mesma, nas paredes e nos obstáculos (pedras e baús). 
+Esse jogo foi desenvolvido durante o período que estávamos cursando a disciplina de linguagem de programação. O propósito do jogo, em primeiro lugar, é a diversão, e também, relembrar um jogo que fez parte da nossa infância, o Snake Game. Já em relação ao objetivo do jogo, é controlar a cobra para que coma os ratinhos, e assim, aumentar sua velocidade e a pontuação do jogador. Além disso, a cobra deve evitar bater em si mesma, nas paredes e nos obstáculos (pedras e baús). 
 
 # Como executar o código?
 
