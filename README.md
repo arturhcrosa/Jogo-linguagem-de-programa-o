@@ -13,8 +13,8 @@ Estamos executando o código do nosso jogo no ambiente de desenvolvimento Visual
 
 Algumas considerações
 
-	Em relação à organização do código, este foi totalmente separado em funções e classes e os arquivos, como desenhos e sons, foram separados em pastas. As principais dificuldades foram organizar o código e criar os obstáculos.
+Em relação à organização do código, este foi totalmente separado em funções e classes e os arquivos, como desenhos e sons, foram separados em pastas. As principais dificuldades foram organizar o código e criar os obstáculos.
 
 O que não fizemos
 
-	Fizemos sprites para a cobra, mas não conseguimos utilizar, pois os sprites teriam que girar dependendo da posição espacial da cobra, além de que teriam as curvas. Também pensamos em transformar um dos baús de obstáculo em baú de bônus e colocar a melhor pontuação no game over, mas não tivemos tempo.
+Fizemos sprites para a cobra, mas não conseguimos utilizar, pois os sprites teriam que girar dependendo da posição espacial da cobra, além de que teriam as curvas. Também pensamos em transformar um dos baús de obstáculo em baú de bônus e colocar a melhor pontuação no game over, mas não tivemos tempo.
