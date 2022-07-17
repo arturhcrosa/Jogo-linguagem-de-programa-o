@@ -1,6 +1,6 @@
 Jogo da cobrinha
 
-  Artur Henrique do Carmo Rosa
+  Artur Henrique do Carmo Rosa e
   Evenly Oliveira Silva Moreira
 	
 Qual o propósito do jogo?
