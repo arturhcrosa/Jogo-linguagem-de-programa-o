@@ -8,7 +8,7 @@ Esse jogo foi desenvolvido durante o período que estávamos cursando a discipli
 
 # Como executar o código?
 
-Estamos executando o código do nosso jogo no ambiente de desenvolvimento Visual Studio Code, por meio da extensão Python da Microsoft. Para que a execução do código aconteça normalmente, é necessário que todos os arquivos e pastas estejam presentes, exatamente como no repositório, no Explorer do VS Code. Além disso, a execução (tecla F5) precisa ser realizada no arquivo “main.py”.
+Estamos executando o código do nosso jogo no ambiente de desenvolvimento Visual Studio Code, por meio da extensão Python da Microsoft. Para que a execução do código aconteça normalmente, é necessário que todos os arquivos e pastas estejam presentes, exatamente como no repositório, no Explorer do VS Code. Além disso, é necessário instalar o módulo pygame. A execução (tecla F5) precisa ser realizada no arquivo “main.py”.
 
 # Algumas considerações
 
